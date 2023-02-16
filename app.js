@@ -66,7 +66,7 @@ const loadMovies = async() =>{
                 // cada pelicula accedo a la variable films sumandole el siguiente html
                 films += `
                     <div class='film'>
-                        <a href='https://www.google.com/search?q=${film.title}%20pelicula'>
+                        <a href='https://www.google.com/search?q=${film.title}%20pelicula' target='_blank'>
                             <img class='poster' src='https://image.tmdb.org/t/p/w500/${film.poster_path}'>
                         </a>
                         <h3 class='header'>${film.title}</h3>
