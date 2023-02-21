@@ -8,4 +8,4 @@ El objetivo de este proyecto era aprender hacer peticiones a un API desde JavaSc
 José Antonio
 
 ## Instalación🛠️
-Debes de crear una cuenta en the movie database, pedir una APIKey y pegar tu API key api_key= Luego abre con doble click el index.html
+Debes de crear una cuenta en the movie database, pedir una APIKey y pegar tu API key en api_key= Luego abre con doble click el index.html
